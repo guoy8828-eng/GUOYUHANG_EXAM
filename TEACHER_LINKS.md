@@ -6,7 +6,7 @@
 
 Additional evidence:
 
-- Screenshot contact sheet: https://github.com/guoy8828-eng/GUOYUHANG_EXAM/blob/main/screenshots/screenshots_contact_sheet.jpg
+- Original screenshots: https://github.com/guoy8828-eng/GUOYUHANG_EXAM/tree/main/screenshots
 - Fault tolerance test: https://github.com/guoy8828-eng/GUOYUHANG_EXAM/blob/main/docs/fault_tolerance.md
 - Reflection answers: https://github.com/guoy8828-eng/GUOYUHANG_EXAM/blob/main/docs/reflection.md
 - Output CSV files: https://github.com/guoy8828-eng/GUOYUHANG_EXAM/tree/main/outputs/analytics
