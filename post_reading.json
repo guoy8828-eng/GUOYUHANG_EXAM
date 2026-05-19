@@ -1,0 +1,6 @@
+{
+  "sensor": "temperature",
+  "value": 38.5,
+  "unit": "C",
+  "source": "site-A-rack-12"
+}
